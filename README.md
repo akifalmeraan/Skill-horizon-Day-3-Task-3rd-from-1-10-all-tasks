@@ -13,4 +13,12 @@ MX record:- NA Skill-horizon-Day-3-Task-3rd-from-1-10-all-tasks
 Performed information gathering of domain and subdomains, emails and metadata extraction etc etc
 
 
-TASK 3) 
+TASK 3) Emails found 1) email.example.com
+2) info@example.com
+3) mail@example.com
+4) you@example.com
+5) them@example.com
+6) me@example.com
+
+
+
