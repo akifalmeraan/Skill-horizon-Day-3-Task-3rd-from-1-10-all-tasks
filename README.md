@@ -46,6 +46,25 @@ Result :- Yes
 Result:-No
 
 
-Task 6) 
+Task 6) Social media and OSINT(employees and public info)
+1)  The founder of HackThisSite.org is
+Jeremy Alexander Hammond. He created it in 2003, and is also known by the online moniker "sup_g".
+2) Specific Department Emails
+
+    a)Advertising: advertising@hackthissite.org 
+    b)Donations: donate@hackthissite.org
+
+3) HACKTHISSITE.ORG :- A staff operates as a group, and it is this collective "HackThisSite Staff" that maintains the website.
+4) Contact methods
+
+    Email: hackbloc@gmail.com
+    IRC: irc.hackthissite.org on the #hackbloc or #hackthissite channels, SSL port 7000
+    Discord: Join their official server
+    Forums: Visit their online forums for discussions
+    Postal Mail: Hack This Site, 412 N. Main St. STE 100, Buffalo, WY 82834 
+
+
+
+TASK 7) 
 
 
