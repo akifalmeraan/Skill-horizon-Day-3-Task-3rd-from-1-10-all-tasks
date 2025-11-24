@@ -21,4 +21,13 @@ TASK 3) Emails found 1) email.example.com
 6) me@example.com
 
 
+TASK 4) Extracted metadata information of Osmania University
+1) Time table pdf
+2) extracted metadata by using (exiftool metadata.pdf) command
+3) Tools used :- exiftool
+
+
+
+
+
 
