@@ -28,6 +28,24 @@ TASK 4) Extracted metadata information of Osmania University
 
 
 
+TASK 5 Google dorks attempted
+RESULTS
+1) site:hackthissite.org filetype:pdf 
+Result:- YES
+2)  site:hackthissite.org filetype:docx
+Rsult:- No
+3)  site:hackthissite.org filetype:loh
+Result:- No
+4)  site:hackthissite.org filetype:sql
+Result:- No
+5)  site:hackthissite.org intitle:"index of"
+Result :- Yes
+6)  site:hackthissite.org inurl:login
+Result :- Yes
+7)  site:hackthissite.org ext:bak
+Result:-No
 
+
+Task 6) 
 
 
