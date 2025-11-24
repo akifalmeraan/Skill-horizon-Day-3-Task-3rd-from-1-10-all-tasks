@@ -67,7 +67,7 @@ Jeremy Alexander Hammond. He created it in 2003, and is also known by the online
 
 TASK 7) URLs & LEAK DATA IN JS FILES.
 
-1) Found api key of bookingcom in gtihub
+1) Found api key of booking.com in gtihub
    api_key:eyJrIjoiT0tTcG1pUlY2RnVKZTFVaDFsNFZXdE9ZWmNrMkZYbk@localhost:3000/api/org
 
 2) SECRET KEY:- AWS_SECRETS_ACCESS_KEY = 'uvvr0ZTkimd7nLKxAZWr+k53spkrCn5DUNYB1Wrk'
